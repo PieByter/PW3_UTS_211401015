@@ -3,7 +3,12 @@ UTS LAB 3 PEMWEB
 
 ## Screenshots
 ### index.html
-![index.html](./Screenshots/index.png)
+#### Light Mode
+![index.html](./Screenshots/Main Page - Light Mode.png)
+
+#### Dark Mode
+![index.html](./Screenshots/Main Page - Dark Mode.png)
 
 ### login.html
-![login.html](./Screenshots/login.png)
+![index.html](./Screenshots/Login Page - Login.png)
+![index.html](./Screenshots/Login Page - Registration.png)
